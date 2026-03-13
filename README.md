@@ -1,8 +1,8 @@
 # Bellabeat Smart Device Usage Analysis
 
-This project is a data analysis case study completed as part of the Google Data Analytics learning process.
+This project is a data analysis case study completed as part of the Google Data Analytics Professional Certificate.
 
-The objective of this project is to analyze smart device usage data and identify trends that could help Bellabeat improve its marketing strategy.
+The objective of the analysis is to explore smart device usage trends using fitness tracker data and generate insights that could help Bellabeat improve its marketing strategy.
 
 ## Tools Used
 
